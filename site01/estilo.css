@@ -1,0 +1,37 @@
+body{
+    background: rgb(196, 196, 196);
+}
+header{
+    font: normal 20pt Arial;
+    color: rgb(48, 47, 48);
+    text-align: center;
+}
+section{
+    font: normal 20pt Arial;
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 1px 1px 15px rgba(36, 36, 36, 0.48);
+}
+footer{
+    font: normal 9pt Arial;
+    color: rgb(45, 45, 45);
+    text-align: center;
+    font-style: italic;
+}
+img{
+    width: 80pt;
+}
+input{
+    border-radius: 15px;
+    font: normal 20pt Arial;
+    box-shadow: 1px 1px 4px rgba(57, 57, 57, 0.7);
+    background: rgba(221, 221, 221, 0.53)
+
+}
+div.horas{
+    padding-top: 10pt;
+}
